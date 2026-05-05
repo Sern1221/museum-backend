@@ -1,0 +1,14 @@
+{
+  "name": "museum-backend",
+  "version": "1.0.0",
+  "description": "博物馆导览系统后端",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@supabase/supabase-js": "^2.38.0",
+    "cors": "^2.8.5"
+  }
+}
